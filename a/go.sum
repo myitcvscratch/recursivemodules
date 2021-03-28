@@ -1,0 +1,4 @@
+github.com/myitcvscratch/recursivemodules/a v0.0.2/go.mod h1:WZ0UnpmlfaTHtlsF6G/yTATxk/RJl2gAhyIOARwpvwY=
+github.com/myitcvscratch/recursivemodules/b v0.0.1/go.mod h1:RtVZTu0RjAzMTny44GZAs9hsLksl5uPO8UG2XF8WiGc=
+github.com/myitcvscratch/recursivemodules/b v0.0.2 h1:sD741bjYak76MMwrJoYS2bQIB0upAVC8IG0YcdwF6Xc=
+github.com/myitcvscratch/recursivemodules/b v0.0.2/go.mod h1:FGXN9jQmnzq83FQooS/0B2ukQ3oo13xDztKurrmpDK8=
